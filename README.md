@@ -108,6 +108,12 @@ clf.predict([[0, 87, 0, 95, 0, 2, 78, 2, 0]])
 ![image](https://github.com/DhanalakshmiCSE/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119477832/fceb1521-b73b-4ae8-a975-b34cc4a69914)
 
 
+
+![image](https://github.com/DhanalakshmiCSE/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119477832/8bc1429a-e26d-4dc4-a6b0-ad61d2a1a8dd)
+
+
+
+
 ![image](https://github.com/DhanalakshmiCSE/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119477832/01c5a594-2c55-44bb-ac56-5f8b464ddb24)
 
 
